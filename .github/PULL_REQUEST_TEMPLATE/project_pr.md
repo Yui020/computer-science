@@ -2,7 +2,7 @@
 
 This template is for any submissions to our [projects list](https://github.com/ossu/computer-science/blob/master/PROJECTS.md).
 If you're submitting a pull request for any other part of the repo, don't use this
-template.
+template. HAGHGSHAGSHAGSHAGSHAGSHAGSHAGSH
 
 Before you submit your project, there's a few things to check:
 
